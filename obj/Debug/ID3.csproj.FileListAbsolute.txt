@@ -1,0 +1,14 @@
+K:\ProjectsVS\sysUcz\bin\Debug\sysUcz.exe.config
+K:\ProjectsVS\sysUcz\bin\Debug\sysUcz.exe
+K:\ProjectsVS\sysUcz\bin\Debug\sysUcz.pdb
+K:\ProjectsVS\sysUcz\obj\Debug\ID3.csprojResolveAssemblyReference.cache
+K:\ProjectsVS\sysUcz\obj\Debug\MainWindow.g.cs
+K:\ProjectsVS\sysUcz\obj\Debug\App.g.cs
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz_MarkupCompile.cache
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz_MarkupCompile.lref
+K:\ProjectsVS\sysUcz\obj\Debug\MainWindow.baml
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.g.resources
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.Properties.Resources.resources
+K:\ProjectsVS\sysUcz\obj\Debug\ID3.csproj.GenerateResource.Cache
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.exe
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.pdb

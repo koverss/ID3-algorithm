@@ -1,0 +1,28 @@
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\bin\Debug\sysUcz.exe.config
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\bin\Debug\sysUcz.exe
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\bin\Debug\sysUcz.pdb
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz.csprojResolveAssemblyReference.cache
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\MainWindow.g.cs
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\App.g.cs
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz_MarkupCompile.cache
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz_MarkupCompile.lref
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\MainWindow.baml
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz.g.resources
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz.Properties.Resources.resources
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz.csproj.GenerateResource.Cache
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz.exe
+c:\users\bartek\documents\visual studio 2015\Projects\sysUcz\obj\Debug\sysUcz.pdb
+K:\ProjectsVS\sysUcz\bin\Debug\sysUcz.exe.config
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.exe
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.pdb
+K:\ProjectsVS\sysUcz\bin\Debug\sysUcz.exe
+K:\ProjectsVS\sysUcz\bin\Debug\sysUcz.pdb
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.csprojResolveAssemblyReference.cache
+K:\ProjectsVS\sysUcz\obj\Debug\MainWindow.g.cs
+K:\ProjectsVS\sysUcz\obj\Debug\App.g.cs
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz_MarkupCompile.cache
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz_MarkupCompile.lref
+K:\ProjectsVS\sysUcz\obj\Debug\MainWindow.baml
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.g.resources
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.Properties.Resources.resources
+K:\ProjectsVS\sysUcz\obj\Debug\sysUcz.csproj.GenerateResource.Cache
